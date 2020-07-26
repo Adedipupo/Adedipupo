@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Creating a new Docker Image for my application
 - 🌱 I’m currently learning ...Cloud Computing
 - 👯 I’m looking to collaborate on ...DevOps related projects
-- 🤔 I’m looking for help with ... which to use between App Engine and Kubenetes Engine
-- 💬 Ask me about ... Anything on React.js,Node.js,GCP
+- 🤔 I’m looking for help with ... Kubenetes Engine
+- 💬 Ask me about ... React.js,Node.js,GCP
 - 📫 How to reach me: ...twitter : @otunbadipo1
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I love Cookies
