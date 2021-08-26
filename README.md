@@ -5,8 +5,8 @@ I'm Adedipupo Benedict Jokanola,a Software Engineer in Nigeria using MERN Stack.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...Music App
-- 🌱 I’m currently learning ...Microservices
+- 🔭 I’m currently working on ...Fintech App
+- 🌱 I’m currently learning ...Vue.js,Nuxt.js,Vuex,Adonis.js
 - 👯 I’m looking to collaborate on ...DevOps related projects
 - 🤔 I’m looking for help with  ... connecting with startups and collaborating
 - 💬 Ask me about ... React.js,Node.js,GCP,Docker
