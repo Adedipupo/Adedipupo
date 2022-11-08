@@ -5,11 +5,11 @@ I'm Adedipupo Benedict Jokanola,a Software Engineer in Nigeria using MERN Stack.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... "House of Sound"
-- 🌱 I’m currently learning ... Telco
+- 🔭 I’m currently working on ... "Exploring..."
+- 🌱 I’m currently learning ... Golang
 - 👯 I’m looking to collaborate on ... tech
 - 🤔 I’m looking for help with  ... connecting with startups and collaborating
-- 💬 Ask me about ... React.js,Node.js,Vue.js,Nuxt.js,Angular,GCP,Docker
+- 💬 Ask me about ... React.js,Node.js,Docker
 - 📫 How to reach me: ...twitter : @otunbadipo1
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... video-games >>>>
