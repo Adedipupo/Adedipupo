@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with  ... connecting with startups and collaborating
 - 💬 Ask me about ... React.js,Node.js,Docker
 - 📫 How to reach me: ...twitter : @otunbadipo1
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... video-games >>>>
+- 😄 
+- ⚡ Fun fact: ... Ronaldo >>>>
 
