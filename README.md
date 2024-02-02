@@ -1,16 +1,16 @@
 ### Hi there 👋
-I'm Adedipupo Benedict Jokanola,a Software Engineer in Nigeria using MERN Stack.I love working with Javascript alot.
+I'm Adedipupo Benedict Jokanola (Dipo ), a Backend Engineer in Nigeria. I build solutions and solve problems.
 <!--
 **Adedipupo/Adedipupo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... "Exploring..."
-- 🌱 I’m currently learning ... Golang
+- 🌱 I’m currently learning ... Rust
 - 👯 I’m looking to collaborate on ... tech
 - 🤔 I’m looking for help with  ... connecting with startups and collaborating
-- 💬 Ask me about ... React.js,Node.js,Docker
-- 📫 How to reach me: ...twitter : @otunbadipo1
+- 💬 Ask me about ... Node.js,Docker, Golang,Rust, RabbitMQ
+- 📫 How to reach me: ... X (formerly Twitter ) : @otunbadipo1
 - 😄 
 - ⚡ Fun fact: ... Ronaldo >>>>
 
