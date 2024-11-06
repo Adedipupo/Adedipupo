@@ -6,10 +6,10 @@ I'm Adedipupo Benedict Jokanola (Dipo ), a Backend Engineer in Nigeria. I build 
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... "Exploring..."
-- 🌱 I’m currently learning ... Rust
-- 👯 I’m looking to collaborate on ... tech
+- 🌱 I’m currently learning ... how to learn
+- 👯 I’m looking to collaborate on ... interesting solutions
 - 🤔 I’m looking for help with  ... connecting with startups and collaborating
-- 💬 Ask me about ... Node.js,Docker, Golang,Rust, RabbitMQ
+- 💬 Ask me about ... Node.js,Docker,Aws,Kafka,Databricks etc
 - 📫 How to reach me: ... X (formerly Twitter ) : @otunbadipo1
 - 😄 
 - ⚡ Fun fact: ... Ronaldo >>>>
