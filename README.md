@@ -6,7 +6,7 @@ I'm Adedipupo Benedict Jokanola (Dipo ), a Backend Engineer in Nigeria. I build 
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... "Exploring..."
-- 🌱 I’m currently learning ... Solidity
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ... interesting solutions
 - 🤔 I’m looking for help with  ... connecting with startups and collaborating
 - 💬 Ask me about ... Node.js,Docker,Aws,Kafka,Databricks etc
